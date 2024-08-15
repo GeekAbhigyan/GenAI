@@ -1,1 +1,5 @@
 # GenAI
+* rag
+* llm
+* genAi
+* 
